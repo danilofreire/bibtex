@@ -1,2 +1,3 @@
 # bibtex
-My BibTeX file
+
+My BibTeX file.
